@@ -1,0 +1,24 @@
+import java.util.*;
+public class sort_array_0_1_2s
+{
+    public  static void main(String args[])
+    {
+
+    ArrayList<Integer> list = new ArrayList<>();
+    list.add(0);
+        list.add(0);
+        list.add(2);
+        list.add(2);
+        list.add(1);
+        list.add(1);
+        list.add(1);
+// approach 1
+
+
+        Collections.sort(list);
+        System.out.print(list);
+
+
+
+    }
+}

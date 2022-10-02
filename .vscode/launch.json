@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateArray",
+            "request": "launch",
+            "mainClass": "RotateArray",
+            "projectName": "450 Question sol_3502a1bc"
+        },
+        {
+            "type": "java",
+            "name": "Launch TUF",
+            "request": "launch",
+            "mainClass": "TUF",
+            "projectName": "450 Question sol_3502a1bc"
+        },
+        {
+            "type": "java",
+            "name": "Launch darray",
+            "request": "launch",
+            "mainClass": "darray",
+            "projectName": "450 Question sol_3502a1bc"
+        },
+        {
+            "type": "java",
+            "name": "Launch kth_small_array",
+            "request": "launch",
+            "mainClass": "kth_small_array",
+            "projectName": "450 Question sol_3502a1bc"
+        },
+        {
+            "type": "java",
+            "name": "Launch minmax_array",
+            "request": "launch",
+            "mainClass": "minmax_array",
+            "projectName": "450 Question sol_3502a1bc"
+        },
+        {
+            "type": "java",
+            "name": "Launch move_negpos_to_oneside",
+            "request": "launch",
+            "mainClass": "move_negpos_to_oneside",
+            "projectName": "450 Question sol_3502a1bc"
+        },
+        {
+            "type": "java",
+            "name": "Launch revarray",
+            "request": "launch",
+            "mainClass": "revarray",
+            "projectName": "450 Question sol_3502a1bc"
+        },
+        {
+            "type": "java",
+            "name": "Launch sort_array_0_1_2s",
+            "request": "launch",
+            "mainClass": "sort_array_0_1_2s",
+            "projectName": "450 Question sol_3502a1bc"
+        }
+    ]
+}
